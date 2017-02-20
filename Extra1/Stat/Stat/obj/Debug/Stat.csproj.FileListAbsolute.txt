@@ -1,0 +1,11 @@
+D:\Лабы\Security\Stat\Stat\bin\Debug\Stat.exe.config
+D:\Лабы\Security\Stat\Stat\bin\Debug\Stat.exe
+D:\Лабы\Security\Stat\Stat\bin\Debug\Stat.pdb
+D:\Лабы\Security\Stat\Stat\obj\Debug\Stat.csprojResolveAssemblyReference.cache
+D:\Лабы\Security\Stat\Stat\obj\Debug\Stat.MainForm.resources
+D:\Лабы\Security\Stat\Stat\obj\Debug\Stat.Properties.Resources.resources
+D:\Лабы\Security\Stat\Stat\obj\Debug\Stat.StatForm.resources
+D:\Лабы\Security\Stat\Stat\obj\Debug\Stat.csproj.GenerateResource.Cache
+D:\Лабы\Security\Stat\Stat\obj\Debug\Stat.exe
+D:\Лабы\Security\Stat\Stat\obj\Debug\Stat.pdb
+D:\Лабы\Security\Stat\Stat\obj\Debug\Stat.GraphForm.resources

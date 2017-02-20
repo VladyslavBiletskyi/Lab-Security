@@ -1,0 +1,9 @@
+D:\Лабы\Security\Analysis\Analysis\bin\Debug\Analysis.exe.config
+D:\Лабы\Security\Analysis\Analysis\bin\Debug\Analysis.exe
+D:\Лабы\Security\Analysis\Analysis\bin\Debug\Analysis.pdb
+D:\Лабы\Security\Analysis\Analysis\obj\Debug\Analysis.csprojResolveAssemblyReference.cache
+D:\Лабы\Security\Analysis\Analysis\obj\Debug\Analysis.Main.resources
+D:\Лабы\Security\Analysis\Analysis\obj\Debug\Analysis.Properties.Resources.resources
+D:\Лабы\Security\Analysis\Analysis\obj\Debug\Analysis.csproj.GenerateResource.Cache
+D:\Лабы\Security\Analysis\Analysis\obj\Debug\Analysis.exe
+D:\Лабы\Security\Analysis\Analysis\obj\Debug\Analysis.pdb
