@@ -1,0 +1,8 @@
+D:\DES-master\RSA\obj\Debug\RSA.csprojResolveAssemblyReference.cache
+D:\DES-master\RSA\obj\Debug\RSA.Main.resources
+D:\DES-master\RSA\obj\Debug\RSA.Properties.Resources.resources
+D:\DES-master\RSA\obj\Debug\RSA.csproj.GenerateResource.Cache
+D:\DES-master\RSA\bin\Debug\RSA.exe
+D:\DES-master\RSA\bin\Debug\RSA.pdb
+D:\DES-master\RSA\obj\Debug\RSA.exe
+D:\DES-master\RSA\obj\Debug\RSA.pdb

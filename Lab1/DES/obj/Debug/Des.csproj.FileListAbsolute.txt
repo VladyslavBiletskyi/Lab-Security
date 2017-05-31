@@ -1,0 +1,9 @@
+D:\DES-master\DES\bin\Debug\Laba_1_BPtD.exe.config
+D:\DES-master\DES\bin\Debug\Laba_1_BPtD.exe
+D:\DES-master\DES\bin\Debug\Laba_1_BPtD.pdb
+D:\DES-master\DES\obj\Debug\Des.csprojResolveAssemblyReference.cache
+D:\DES-master\DES\obj\Debug\DEC.Form1.resources
+D:\DES-master\DES\obj\Debug\Laba_1_BPtD.Properties.Resources.resources
+D:\DES-master\DES\obj\Debug\Des.csproj.GenerateResource.Cache
+D:\DES-master\DES\obj\Debug\Laba_1_BPtD.exe
+D:\DES-master\DES\obj\Debug\Laba_1_BPtD.pdb
